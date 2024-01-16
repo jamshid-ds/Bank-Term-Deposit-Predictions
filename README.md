@@ -7,23 +7,22 @@ In this project, using the dataset created in the Bank's data, predicting the gi
 <br>
 <br>
 <br>
-<br>
 **First of all, we planned what we had to do**
 <br>
 <br>
 <br>
 **Step-1**: Data collection and understanding
 <br>
-<br>
+
 **Step-2**: The visualization part. Graphics used:
 <br>
-<br>
+
 **Step-3**:Preparing the dataset for Machine Learning
 <br>
-<br>
+
 **Step-4**: Machine Learning
 <br>
-<br>
+
 **Step-5**: Model evaluation
 <br>
 <br>
