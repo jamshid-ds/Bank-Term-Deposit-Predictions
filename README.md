@@ -11,46 +11,22 @@ In this project, using the dataset created in the Bank's data, predicting the gi
 **First of all, we planned what we had to do**
 <br>
 <br>
-Qadam-1: Ma'lumotlarni yig'ish va tushunish
+<br>
+**Step-1**: Data collection and understanding
+<br>
+<br>
+**Step-2**: The visualization part. Graphics used:
+<br>
+<br>
+**Step-3**:Preparing the dataset for Machine Learning
+<br>
+<br>
+**Step-4**: Machine Learning
+<br>
+<br>
+**Step-5**: Model evaluation
+<br>
+<br>
+<br>
+<br>
 
-Kutubxonalarni chaqirish
-Ma'lumotlarni chaqirish
-Dataset haqida boshlang'ich tushunchalarni paydo qilish
-Datasetdagi xatoliklarni aniqlash. Va ularni vizualizatsiya uchun tayyorlash
-
-
-**Qadam-2**: Vizualisatsiya qismi. Foydalaniladigan grafiklar:
-Barplot
-Histplot
-Piechart
-
-
-Qadam-3: Datasetni Machine Learning uchun tayyorlash
-
-Pipeline quramiz
-Pipelineni train va test datasetlar uchun transform qilamiz
-
-
-**Qadam-4**: Machine Learning
-Qanday Machine Learning algoritmini tanlaymiz:
-
-Logistic Regression
-Decision Trees
-Random Forest
-Support Vector Machines (SVM)
-Naive Bayes:
-Gradient Boosting
-Neural Networks (Deep Learning)
-Har bir algoritm uchun trainsetni o'qitamiz
-
-
-
-**Qadam-5**: Modelni baholash
-Confusion Matrix
-Classification Report
-
-
-Qadam-6: Test setni barcha modellar yordamida predict qilamiz
-
-Test setlarni bashorat qilish
-Yangi DataFrame yaratamiz va barcha bashorat qilingan qiymatlarni shu DataFramining ustunlari qilib joylashtiramiz
