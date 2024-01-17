@@ -56,6 +56,8 @@ In this project, using the dataset created in the Bank's data, predicting the gi
 Results
 <br>
 ![image](https://github.com/jamshid-ds/Bank-Term-Deposit-Predictions/assets/117648241/447387ee-cdf9-43dc-b3f8-6834a1465666)
+![image](https://github.com/jamshid-ds/Bank-Term-Deposit-Predictions/assets/117648241/97db6f5d-85cf-421a-bc9a-cbff69c80e3d)
+
 
 
 
