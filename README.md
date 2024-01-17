@@ -35,5 +35,28 @@ In this project, using the dataset created in the Bank's data, predicting the gi
 ![image](https://github.com/jamshid-ds/Bank-Term-Deposit-Predictions/assets/117648241/9271ad82-8cf1-4759-a92b-6eeed5557bbb)
 <br>**This is the information we can conclude from the table**:
 <br>The main customers are between 30-35 years old
+<br>The minimum age of the customers started from 18 years old on average
+<br>
+<br>
+![image](https://github.com/jamshid-ds/Bank-Term-Deposit-Predictions/assets/117648241/a995092a-9a1d-4172-a828-bce3bab8e6a9)
+<br>**This is the information we can conclude from the table**:
+<br>There are relatively more blue-collar workers in the table (blue-collar workers).
+<br>
+<br>
+![image](https://github.com/jamshid-ds/Bank-Term-Deposit-Predictions/assets/117648241/4740d269-fab3-4e53-8a4c-2970165f1a7b)
+<br>**Our main table**
+<br>**This is the information we can conclude from the table**:
+<br>Unverified customers far outnumber verified ones. ( 88.3% | 11.7% )
+<br>
+<br>
+<br>
+**We tested many machine learning algorithms, two of them: Random Forest and Decision Tree Algorithms gave good results**
+<br>
+<br>
+Results
+<br>
+![image](https://github.com/jamshid-ds/Bank-Term-Deposit-Predictions/assets/117648241/447387ee-cdf9-43dc-b3f8-6834a1465666)
+
+
 
 
