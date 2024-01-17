@@ -28,4 +28,12 @@ In this project, using the dataset created in the Bank's data, predicting the gi
 <br>
 <br>
 <br>
+**we got a lot of conclusions with the help of visualization. Let's get to know them**
+<br>
+<br>
+<br>
+![image](https://github.com/jamshid-ds/Bank-Term-Deposit-Predictions/assets/117648241/9271ad82-8cf1-4759-a92b-6eeed5557bbb)
+<br>**This is the information we can conclude from the table**:
+<br>The main customers are between 30-35 years old
+
 
